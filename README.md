@@ -8,4 +8,5 @@ Copy the following JSON code to a file named MyQueue.json. To create a standard 
 ## Delete stack
 Delete initiated for arn:aws:cloudformation:ap-southeast-2:718596184004:stack/MyQueueSQS/f2210550-888d-11ed-be72-02969514c432
 
+## References
 https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/create-queue-cloudformation.html
